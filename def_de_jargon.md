@@ -16,7 +16,7 @@ Processus consistant à ajuster le comportement d'une IA pour qu'il soit conform
 
 
 ### API
-Interface de programmation d'application permettant à deux applications distinctes de communiquer et d'échanger des données ou des services.
+(Application Programming Interface ou Interface de Programmation d'Application) Interface de programmation d'application permettant à deux applications distinctes de communiquer et d'échanger des données ou des services.
 
 
 ### apprentissage
@@ -48,7 +48,7 @@ Mesure du potentiel maximal d'un modèle à accomplir des tâches, à raisonner 
 
 
 ### CUDA
-Architecture de calcul parallèle de NVIDIA permettant d'utiliser les processeurs graphiques (GPU) pour accélérer les calculs scientifiques et l'IA.
+(Compute Unified Device Architecture) Architecture de calcul parallèle de NVIDIA permettant d'utiliser les processeurs graphiques (GPU) pour accélérer les calculs scientifiques et l'IA.
 
 
 ### cyberattaque par IA
@@ -84,7 +84,7 @@ Ensemble des règles, des politiques et des cadres éthiques régissant le déve
 
 
 ### GPU
-Processeur graphique hautement parallèle, essentiel pour accélérer l'entraînement et l'inférence des modèles d'IA.
+(Graphics Processing Unit ou processeur graphique) Processeur graphique hautement parallèle, essentiel pour accélérer l'entraînement et l'inférence des modèles d'IA.
 
 
 ### hallucination
@@ -120,7 +120,7 @@ Famille de modèles de langage (LLM) open-source développée par Meta, largemen
 
 
 ### LLM
-Grand modèle de langage entraîné sur d'immenses volumes de texte pour comprendre, générer et manipuler le langage naturel.
+(Large Language Model ou grand modèle de langage) Grand modèle de langage entraîné sur d'immenses volumes de texte pour comprendre, générer et manipuler le langage naturel.
 
 
 ### Machine Learning
@@ -164,11 +164,11 @@ Instruction textuelle fournie par l'utilisateur à une IA pour guider la génér
 
 
 ### RAM(DRAM)
-Mémoire vive principale d'un système informatique, cruciale pour charger les modèles et les données lors du traitement.
+(Random Access Memory) Mémoire vive principale d'un système informatique, cruciale pour charger les modèles et les données lors du traitement.
 
 
 ### RAG
-Technique permettant d'améliorer un LLM en connectant ses requêtes à une source externe de données fiables avant de générer la réponse.
+(Retrieval-Augmented Generation) Technique permettant d'améliorer un LLM en connectant ses requêtes à une source externe de données fiables avant de générer la réponse.
 
 
 ### Réseau neuronal
@@ -200,7 +200,7 @@ Unité de base (morceau de mot, mot ou caractère) utilisée par un LLM pour dé
 
 
 ### TPU
-Processeur développé par Google, spécifiquement optimisé pour accélérer le traitement et l'entraînement des réseaux de neurones.
+(Tensor Processing Unit ou Unité de Traitement Tensoriel) Processeur développé par Google, spécifiquement optimisé pour accélérer le traitement et l'entraînement des réseaux de neurones.
 
 
 ### Transformer
