@@ -143,6 +143,10 @@ Entreprise technologique leader dans la fabrication de puces graphiques (GPU) et
 Outil ou framework open-source d'automatisation ou d'interfaçage de workflows de données lié à l'écosystème de l'IA.
 
 
+### Framework
+un ensemble d'outils, de composants logiciels et de règles pré-organisés qui sert de fondation pour développer une application.
+
+
 ### OpenRouter
 Service d'API unifié permettant d'accéder à une multitude de modèles d'IA (LLM) via une seule et unique interface de programmation.
 
